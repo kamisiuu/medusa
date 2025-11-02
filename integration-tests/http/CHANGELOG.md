@@ -1,5 +1,34 @@
 # integration-tests-http
 
+## 1.0.29
+
+### Patch Changes
+
+- Updated dependencies [[`224ab39a81e8d3cf3d6fa3ff5eee82541f64728d`](https://github.com/medusajs/medusa/commit/224ab39a81e8d3cf3d6fa3ff5eee82541f64728d), [`990691e78a77a46bc581353de47945dd8f5d6928`](https://github.com/medusajs/medusa/commit/990691e78a77a46bc581353de47945dd8f5d6928), [`13d7d15be594ca413785eebe8f86b47c36cb9830`](https://github.com/medusajs/medusa/commit/13d7d15be594ca413785eebe8f86b47c36cb9830)]:
+  - @medusajs/api-key@2.11.3
+  - @medusajs/auth@2.11.3
+  - @medusajs/cache-inmemory@2.11.3
+  - @medusajs/core-flows@2.11.3
+  - @medusajs/customer@2.11.3
+  - @medusajs/event-bus-local@2.11.3
+  - @medusajs/framework@2.11.3
+  - @medusajs/fulfillment@2.11.3
+  - @medusajs/fulfillment-manual@2.11.3
+  - @medusajs/inventory@2.11.3
+  - @medusajs/medusa@2.11.3
+  - @medusajs/modules-sdk@2.11.3
+  - @medusajs/pricing@2.11.3
+  - @medusajs/product@2.11.3
+  - @medusajs/promotion@2.11.3
+  - @medusajs/region@2.11.3
+  - @medusajs/stock-location@2.11.3
+  - @medusajs/store@2.11.3
+  - @medusajs/tax@2.11.3
+  - @medusajs/test-utils@2.11.3
+  - @medusajs/user@2.11.3
+  - @medusajs/utils@2.11.3
+  - @medusajs/workflow-engine-inmemory@2.11.3
+
 ## 1.0.28
 
 ### Patch Changes
